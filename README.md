@@ -14,6 +14,11 @@ Install required packages
 
 #### Development
 
+Create a .env file at the root folder
+Replicate the contents of .env.example with your alchemy API key and private key
+- Alchemy API Key is the part after https://eth-kovan.alchemyapi.io/v2/
+- Private Key can be any private key
+
 `npm run start`
 - The React App will run at http://localhost:3000/
 
